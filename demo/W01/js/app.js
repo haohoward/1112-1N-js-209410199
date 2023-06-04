@@ -6,13 +6,13 @@ let Divide = document.querySelector('#btn-divide');
 let ResultOutput = document.querySelector('#current-result');
 let CalculationOutput = document.querySelector('#current-calculation');
 
-/*
+
 console.log('userInput', userInput);
 console.log('Add', Add);
 console.log('Subtract', Subtract);
 console.log('Multiply', Multiply);
 console.log('Divide', Divide);
-*/
+
 
 const defaultResult = 0;
 let currentResult = defaultResult;
