@@ -13,8 +13,8 @@ https://1112-1-n-js-209410199.vercel.app/
 #### 4 請逐項說明 API project 功能
 
 使用 button 控制 fetch 的資料
-![](./1.PNG)
-![](./2.PNG)
+![](https://berldygauswlplpidqun.supabase.co/storage/v1/object/public/demo-99/project/1.PNG?t=2023-06-11T15%3A22%3A29.359Z)
+![](https://berldygauswlplpidqun.supabase.co/storage/v1/object/public/demo-99/project/2.PNG?t=2023-06-11T15%3A22%3A39.606Z)
 
 #### 5 心得甘苦談
 

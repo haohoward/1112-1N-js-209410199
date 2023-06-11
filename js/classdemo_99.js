@@ -64,5 +64,11 @@ const showClassDemo = (week) => {
     case 'w15-md':
       showDemo.innerHTML = `<iframe src='./demo/md/w15/index.html' width="100%" height="100%" />`;
       break;
+    case 'apiProject':
+      showDemo.innerHTML = `<iframe src='./apiProject/api.md' width="100%" height="100%" />`;
+      break;
+    case 'apiProject-md':
+      showDemo.innerHTML = `<iframe src='./apiProject/API.html' width="100%" height="100%" />`;
+      break;
   }
 };
